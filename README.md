@@ -7,7 +7,7 @@ Still studying, [link](https://fintech.tinkoff.ru/school/basic/ios/)
 ### Federal project "Code of the Future" 2023-2024 
 Studied: [C++](https://ru.wikipedia.org/wiki/C%2B%2B)
 
-Certificate: Сертификат-1592816-3-12.pdf
+Certificate: 
 ## Languages and Frameworks 🛠️
 ### 📱 iOS Development:
 >   Language: Swift
