@@ -18,7 +18,7 @@ Studied: [C++](https://ru.wikipedia.org/wiki/C%2B%2B)
 Vk: https://vk.com/rom3ka 
 
 
-Tg: @Bezdarmfm
+Tg: @Tens1dess
 
 Mail: romankotov3213@gmail.com
 
