@@ -12,7 +12,7 @@ Studied: [link](https://inginirium.ru/courses/cpp-2035)
 ## Olympiad 📊
 ### Национальная олимпиада по анализу данных «DANO»
 #### Первый отборочный этап  
-certificate: [Dano olimp](https://github.com/Tens1des/certificate/blob/main/Dano%20olimp.pdf)
+certificate: [Dano olimp]([https://github.com/Tens1des/certificate/blob/main/Dano%20olimp.pdf](https://github.com/Tens1des/certificate/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82-1592816-3-11.pdf))
 ## Languages and Frameworks 🛠️
 ### 📱 iOS Development:
 >   Language: Swift
