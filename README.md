@@ -6,6 +6,7 @@ Hi, I'm Roma, and I'm a 15-year-old high-school student in Belgorod, Russia. I d
 Still studying, [link](https://fintech.tinkoff.ru/school/basic/ios/)
 ### Federal project "Code of the Future" 2023-2024 
 Studied: [C++](https://ru.wikipedia.org/wiki/C%2B%2B)
+https://inginirium-online.ru/courses/3
 ## Languages and Frameworks 🛠️
 ### 📱 iOS Development:
 >   Language: Swift
