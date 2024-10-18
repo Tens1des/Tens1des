@@ -7,6 +7,10 @@ Still studying, [link](https://fintech.tinkoff.ru/school/basic/ios/)
 ### Federal project "Code of the Future" 2023-2024 
 #### Инжинириум МГТУ им. Н.Э. Баумана
 Studied: [link](https://inginirium.ru/courses/cpp-2035)
+## Olympiad 📊
+### Национальная олимпиада по анализу данных «DANO»
+#### Первый отборочный этап  
+certificate: 
 ## Languages and Frameworks 🛠️
 ### 📱 iOS Development:
 >   Language: Swift
