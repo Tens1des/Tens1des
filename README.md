@@ -19,7 +19,7 @@ certificate: [Dano olimp](https://github.com/Tens1des/certificate/blob/main/Dano
 >>> DataBases: CoreData , Realm , Keychain 
 >>>> Dependency Managers: CocoaPods, Carthage, SPM
 ### 🗂 Backend:
-> Language:C++, Python 
+> Language:C++, Python , GO 
 ## Contacts
 Vk: https://vk.com/rom3ka 
 
