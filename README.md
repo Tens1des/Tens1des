@@ -12,9 +12,9 @@ Studied:
 ### Национальная олимпиада по анализу данных «DANO» 2024-2025
 #### Первый отборочный этап  
 certificate: [Dano olimp](https://github.com/Tens1des/certificate/blob/main/Dano%20olimp.pdf)
-### Национальная олимпиада по анализу данных «DANO» 2024-2025
+### Национальная олимпиада по анализу данных «DANO» 2025-2026
 #### Первый отборочный этап  
-certificate: [Dano olimp]([https://github.com/Tens1des/certificate/blob/main/Dano%20olimp.pdf](https://github.com/Tens1des/certificate/blob/main/Dano2025.pdf))
+certificate: [Dano olimp](https://github.com/Tens1des/certificate/blob/main/Dano2025.pdf)
 ## Languages and Frameworks 🛠️
 ### 📱 iOS Development:
 >   Language: Swift
