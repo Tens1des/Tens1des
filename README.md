@@ -1,5 +1,5 @@
 # About me 😇
-Hi, I'm Roma, and I'm a 16-year-old high-school student in Belgorod, Russia. I do Ios develop (and some backend) 
+Hi, I'm Roma, and I'm a 17-year-old high-school student in Belgorod, Russia. I do Ios develop (and some backend) 
 
 ## Education 📚
 ### iOS development for beginners (Tinkoff)
