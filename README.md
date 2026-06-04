@@ -1,5 +1,5 @@
 # About me 😇
-Hi, I'm Roma, and I'm a 17-year-old high-school student in Belgorod, Russia. 
+Hi, I'm Roma, and I'm a  high-school student in Belgorod, Russia. 
 
 ## Education 📚
 ### development for beginners (Tinkoff)
