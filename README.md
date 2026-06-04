@@ -1,8 +1,8 @@
 # About me 😇
-Hi, I'm Roma, and I'm a 17-year-old high-school student in Belgorod, Russia. I do Ios develop (and some backend) 
+Hi, I'm Roma, and I'm a 17-year-old high-school student in Belgorod, Russia. 
 
 ## Education 📚
-### iOS development for beginners (Tinkoff)
+### development for beginners (Tinkoff)
 Still studying, [Click](https://fintech.tinkoff.ru/school/basic/ios/)
 ### Federal project "Code of the Future" 2023-2024 
 #### Engineering of Bauman Moscow State Technical University
@@ -21,11 +21,11 @@ certificate: [Click](https://github.com/Tens1des/certificate/blob/main/Dano%20ol
 #### First Stage  
 certificate: [Click](https://github.com/Tens1des/certificate/blob/main/Dano2025.pdf)
 ## Languages and Frameworks 🛠️
-### 📱 iOS Development:
->   Language: Swift
->>  Frameworks: Foundation, UIKit, Combine, Alamofire
->>> DataBases: CoreData , Realm , Keychain 
->>>> Dependency Managers: CocoaPods, Carthage, SPM
+### 💻 Backend Development:
+>   Language: Go (Golang)
+>>  Technologies: gRPC, REST API, Microservices, Kafka, RabbitMQ
+>>> Databases: PostgreSQL, Redis, ClickHouse, MySQL, MongoDB
+>>>> Infrastructure & Tools: Docker, Kubernetes, Helm, GitLab CI/CD, Prometheus, Grafana, ELK, Swagger, Git, Linux
 ### 🗂 Backend:
 > Language:C++, Python , GO 
 ## Contacts
