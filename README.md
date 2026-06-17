@@ -1,5 +1,5 @@
 # About me 😇
-Hi, I'm Roma, and I'm a  high-school student in Belgorod, Russia. 
+Hi, I'm Roma,software engineer and I'm a  high-school student. 
 
 ## Education 📚
 ### development for beginners (Tinkoff)
