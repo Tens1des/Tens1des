@@ -22,12 +22,12 @@ certificate: [Click](https://github.com/Tens1des/certificate/blob/main/Dano%20ol
 certificate: [Click](https://github.com/Tens1des/certificate/blob/main/Dano2025.pdf)
 ## Languages and Frameworks 🛠️
 ### 💻 Backend Development:
->   Language: Go (Golang)
+>   Language: Go (Golang),C++, Python
 >>  Technologies: gRPC, REST API, Microservices, Kafka, RabbitMQ
 >>> Databases: PostgreSQL, Redis, ClickHouse, MySQL, MongoDB
 >>>> Infrastructure & Tools: Docker, Kubernetes, Helm, GitLab CI/CD, Prometheus, Grafana, ELK, Swagger, Git, Linux
-### 🗂 Backend:
-> Language:C++, Python , GO 
+### 🗂 Mobile:
+> Language:Swift,Kotlin
 ## Contacts
 Vk: https://vk.com/rom3ka 
 
