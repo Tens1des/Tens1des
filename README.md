@@ -11,7 +11,7 @@
 <br/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Tens1des&label=Profile+views&color=00ADD8&style=flat-square)
-[![Telegram](https://img.shields.io/badge/Telegram-tens1des-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/tens1des)
+[![Telegram](https://img.shields.io/badge/Telegram-tens1dess-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/tens1dess)
 [![Email](https://img.shields.io/badge/Email-write%20me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:romankotov3213@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Tens1des-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tens1des)
 
@@ -66,7 +66,7 @@ Currently at **[X5 Tech](https://x5.tech)** on the loyalty platform — purchase
 
 ### 📫 Contact
 
-- 💬 Telegram: [tens1des](https://t.me/tens1des)
+- 💬 Telegram: [tens1dess](https://t.me/tens1dess)
 - ✉️ Email: [romankotov3213@gmail.com](mailto:romankotov3213@gmail.com)
 - 🐙 GitHub: [Tens1des](https://github.com/Tens1des)
 
