@@ -1,39 +1,51 @@
-# About me 😇
-Hi, I'm Roma,software engineer and I'm a  high-school student. 
+<div align="center">
 
-## Education 📚
-### development for beginners (Tinkoff)
-Still studying, [Click](https://fintech.tinkoff.ru/school/basic/ios/)
-### Federal project "Code of the Future" 2023-2024 
-#### Engineering of Bauman Moscow State Technical University
-Studied:
-[Click](https://github.com/Tens1des/certificate/blob/main/сертификат%20итог%20.pdf)
-## Olympiad 📊
-### DeadLine Central University 
-#### Semi-Finals
-certificate: [Click](https://github.com/Tens1des/certificate/blob/main/%D0%9A%D0%B5%D0%B8%CC%86%D1%81-%D1%87%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82%20DEADLINE_%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%20%D0%BF%D0%BE%D0%BB%D1%83%D1%84%D0%B8%D0%BD%D0%B0%D0%BB%D0%B0.pdf)
-### Central University 
-certificate: [Click](https://github.com/Tens1des/certificate/blob/main/%D0%98%D0%A2-%D1%81%D0%BC%D0%B5%D0%BD%D0%B0%20%D0%B2%20%C2%AB%D0%90%D1%80%D1%82%D0%B5%D0%BA%D0%B5%C2%BB_%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%20%D0%BE%D1%82%D0%B1%D0%BE%D1%80%D0%B0.pdf)
-### National Olympiad in Data Analysis «DANO» 2024-2025
-#### First Stage  
-certificate: [Click](https://github.com/Tens1des/certificate/blob/main/Dano%20olimp.pdf)
-### National Olympiad in Data Analysis «DANO» 2025-2026
-#### First Stage  
-certificate: [Click](https://github.com/Tens1des/certificate/blob/main/Dano2025.pdf)
-## Languages and Frameworks 🛠️
-### 💻 Backend Development:
->   Language: Go (Golang),C++, Python
->>  Technologies: gRPC, REST API, Microservices, Kafka, RabbitMQ
->>> Databases: PostgreSQL, Redis, ClickHouse, MySQL, MongoDB
->>>> Infrastructure & Tools: Docker, Kubernetes, Helm, GitLab CI/CD, Prometheus, Grafana, ELK, Swagger, Git, Linux
-### 🗂 Mobile:
-> Language:Swift,Kotlin
-## Contacts
-Vk: https://vk.com/rom3ka 
+# Roman Kotov
 
+**Go backend engineer** · Moscow
 
-Tg: @Tens1dess
+gRPC · Kafka · PostgreSQL · Redis · ClickHouse
 
-Mail: romankotov3213@gmail.com
+[Telegram](https://t.me/tens1des) · [Email](mailto:romankotov3213@gmail.com)
 
- 
+<br/>
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+</div>
+
+---
+
+I build backend services for high-load product platforms: gRPC APIs, async pipelines, and data paths that have to stay predictable under traffic.
+
+Currently at **[X5 Tech](https://x5.tech)** on the loyalty platform — purchases, bonuses, personalized recommendations.
+
+### Stack
+
+| Layer | Tools |
+| :--- | :--- |
+| Language | Go |
+| API | gRPC, REST |
+| Data | PostgreSQL, Redis, ClickHouse |
+| Messaging | Kafka, RabbitMQ |
+| Platform | Docker, Kubernetes, GitLab CI |
+| Observability | Prometheus, Grafana, ELK |
+
+### Public work
+
+- [**GiftTrackerBack**](https://github.com/Tens1des/GiftTrackerBack) — wishlist service in Go (`chi`, `pgx`, JWT, WebSocket). Auth, public share links, gift reservation, real-time updates.
+
+### Open source
+
+Contributing to Go libraries I actually use: [clickhouse-go](https://github.com/ClickHouse/clickhouse-go), [go-redis](https://github.com/redis/go-redis), [go-github](https://github.com/google/go-github).
+
+### Contact
+
+- Telegram: [tens1des](https://t.me/tens1des)
+- Email: [romankotov3213@gmail.com](mailto:romankotov3213@gmail.com)
+- GitHub: [Tens1des](https://github.com/Tens1des)
