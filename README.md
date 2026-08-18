@@ -6,7 +6,7 @@
 
 gRPC · Kafka · PostgreSQL · Redis · ClickHouse
 
-[Telegram](https://t.me/tens1des) · [Email](mailto:romankotov3213@gmail.com)
+[Telegram](https://t.me/tens1dess) · [Email](mailto:romankotov3213@gmail.com)
 
 <br/>
 
@@ -46,6 +46,6 @@ Contributing to Go libraries I actually use: [clickhouse-go](https://github.com/
 
 ### Contact
 
-- Telegram: [tens1des](https://t.me/tens1des)
+- Telegram: [tens1dess](https://t.me/tens1dess)
 - Email: [romankotov3213@gmail.com](mailto:romankotov3213@gmail.com)
-- GitHub: [Tens1des](https://github.com/Tens1des)
+- GitHub: [Tens1dess](https://github.com/Tens1dess)
