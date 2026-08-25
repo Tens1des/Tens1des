@@ -23,11 +23,10 @@
 <tr>
 <td width="65%">
 
-👋 Hi, I'm **Roman** — a Go backend engineer in Moscow.
+👋 Hi, I'm **Roman** — a Go backend engineer .
 
 I build services for high-load product platforms: gRPC APIs, async pipelines, and data paths that have to stay predictable under traffic.
 
-Currently at **[X5 Tech](https://x5.tech)** on the loyalty platform — purchases, bonuses, personalized recommendations.
 
 **Stack in one line:** `gRPC · Kafka · PostgreSQL · Redis · ClickHouse`
 
